@@ -50,5 +50,54 @@ me = ComputerEngineer()
 me.say_hi()
 ```
 
-## 📔 Current Project
+## About Me
+
+### Professionally 
+
+- Too Many Personal Projects 
+- 3 Work Experience 
+- 2 Universities 
+- 2 Internships 
+- 1 Group Projects 
+- 1 Graduation Projects 
+- Too Many Assignments and Projects 
+
+### Academically 
+
+- Karabuk University, Faculty of Engineering, Computer Engineering 
+- Istanbul Ayvansaray University, Continuing education Center, Cyber Security
+- Information Technologies and Communications Authority - Cyber Security
+  - Internet Security - Academy
+  - Introduction to Information Technology - Şadi Evren Şeker
+  - Secure Internet Service - Dr. Şahin Bayzan
+  - Basic Network Technologies - Sinan Çeçen
+  - KVKK - Ömer Özer
+- Information Technologies and Communications Authority - Web Developer
+  - HTML - Fahrettin Erdinç
+  - CSS - Volkan Alakent
+  - PHP - Volkan Alakent
+  - Javascript - Volkan Alakent
+  - SQL With Applications - Ömer Faruk Çolakoğlu  
+- Information Technologies and Communications Authority - Game Developer
+  - Educational Games with Unity - Sebahattin Soylu
+  - Digital Game Development with Unity - Muhammed Emre Sevük
+- Information Technologies and Communications Authority - Software Developer
+  - Java - Engin Demiroğ
+
+## Technical Skills 
+
+- Network Systems : CCNA
+- Frontend : HTML, CSS, Javascript, Wordpress
+- Backend : PHP, Java, C# (ASP.NET), SOAP API
+- Databases : MySQL, phpMyAdmin 
+- System Programming : C, C++, Linux
+- Mobile : Java, Android Studio 
+- Game Programming : C#, Unity
+- Other : Python, Anaconda, Git Bash
+
+## Current Project
 **I'm currently working on building Server Room Network Simulation (Virtual Reality Project with Unity)**
+
+## Contact 
+
+- You can contact me via [sinanozcelik.com](http://sinanozcelik.com/#say-hello). 
