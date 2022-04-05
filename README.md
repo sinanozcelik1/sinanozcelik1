@@ -49,8 +49,14 @@ class ComputerEngineer:
 me = ComputerEngineer()
 me.say_hi()
 ```
+## 👉 Follow This List
 
-## About Me
+- [👨🏻‍💻 About Me](#-about-me)
+- [:computer: Technical Skills](#computer-technical-skills)
+- [:briefcase: Current Project](#briefcase-current-project)
+- [:email: Contact](#email-contact)
+
+## 👨🏻‍💻 About Me
 
 ### Professionally 
 
@@ -84,7 +90,7 @@ me.say_hi()
 - Information Technologies and Communications Authority - Software Developer
   - Java - Engin Demiroğ
 
-## Technical Skills 
+## :computer: Technical Skills 
 
 - Network Systems : CCNA
 - Frontend : HTML, CSS, Javascript, Wordpress
@@ -95,9 +101,11 @@ me.say_hi()
 - Game Programming : C#, Unity
 - Other : Python, Anaconda, Git Bash
 
-## Current Project
+## :briefcase: Current Project
 **I'm currently working on building Server Room Network Simulation (Virtual Reality Project with Unity)**
 
-## Contact 
+## :email: Contact 
 
 - You can contact me via [sinanozcelik.com](http://sinanozcelik.com/#say-hello). 
+
+## [🔝 Back to Top](#-follow-this-list) 
