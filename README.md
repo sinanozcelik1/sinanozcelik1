@@ -65,13 +65,13 @@ me.say_hi()
 ### Academically 
 
 - Karabuk University, Faculty of Engineering, Computer Engineering 
-- Istanbul Ayvansaray University, Continuing education Center, Cyber Security
+- Istanbul Ayvansaray University, Continuing Education Center, Cyber Security
 - Information Technologies and Communications Authority - Cyber Security
   - Internet Security - Academy
   - Introduction to Information Technology - Şadi Evren Şeker
   - Secure Internet Service - Dr. Şahin Bayzan
   - Basic Network Technologies - Sinan Çeçen
-  - KVKK - Ömer Özer
+  - PDPL - Ömer Özer
 - Information Technologies and Communications Authority - Web Developer
   - HTML - Fahrettin Erdinç
   - CSS - Volkan Alakent
