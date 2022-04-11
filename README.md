@@ -78,6 +78,7 @@ me.say_hi()
   - Secure Internet Service - Dr. Şahin Bayzan
   - Basic Network Technologies - Sinan Çeçen
   - PDPL - Ömer Özer
+  - Advanced Network Technologies - Kaan Aydın
 - Information Technologies and Communications Authority - Web Developer
   - HTML - Fahrettin Erdinç
   - CSS - Volkan Alakent
